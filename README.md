@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **frankdejesusramosguzman9@gmail.com**
 
-- ⚡ Fun fact **Hola! :)**
+- ⚡ Fun fact **Hi! :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
