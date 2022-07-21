@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Frank De Jesús</h1>
+<h1 align="center">Hi 👋🏽Medium Skin Tone, I'm Frank De Jesús</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
 
 - 🔭 I’m currently working on **Proyecto-Final-Historia**
