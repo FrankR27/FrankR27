@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋🏽, I'm Frank De Jesús</h1>
 <h3 align="center">A passionate JavaScript developer from Dominican Republic</h3>
 
-- 🔭 I’m currently working on **Proyecto-Final-Historia**
+- 🔭 I’m currently working on **multiple projects**
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **React, JavaScript, HTML, CSS, Bootstrap, Sass**
+- 💬 Ask me about **React, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **frankdejesusramosguzman9@gmail.com**
 
